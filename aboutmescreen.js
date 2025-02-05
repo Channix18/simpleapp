@@ -13,15 +13,15 @@ export default function AboutMeScreen() {
           style={styles.profileImage} 
         />
         <Text style={styles.name}>Name</Text>
-        <Text style={styles.fullName}>Liel Princes M. Calo</Text>
+        <Text style={styles.fullName}>Christian Jan Gemina</Text>
         <Text style={styles.sectionTitle}>Bio</Text>
         <Text style={styles.bio}>
-        "A creative and forward-thinking developer who enjoys building intuitive mobile applications. I specialize in React Native, ensuring smooth functionality and engaging designs for modern users."
+        "Always in a world full of mysteries and explore more vividly."
         </Text>
         <Text style={styles.sectionTitle}>Skills & Interests</Text>
         <Text style={styles.skills}>React Native | Expo | JavaScript | UI/UX etc.</Text>
         <Text style={styles.sectionTitle}>Email</Text>
-        <Text style={styles.contact}>caloprincesliel@gmail.com</Text>
+        <Text style={styles.contact}>gemina.christianjan@gmail.com</Text>
       </View>
     </ImageBackground>
   );
